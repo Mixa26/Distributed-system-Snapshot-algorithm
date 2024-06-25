@@ -1,0 +1,139 @@
+22:21:05 - Starting servent [4|localhost|1500]
+22:21:05 - Pausing for 500 ms
+22:21:06 - Pausing for 15000 ms
+22:21:06 - STARTING SNAPSHOT FOR (4, 0)
+-----------------------------------------
+MARKER RECEIVED FROM 4
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 0
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 1
+-----------------------------------------
+MARKER RECEIVED FROM 3
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 4 AND SNAPSHOTID.FIRST IS 1
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 5
+-----------------------------------------
+MARKER RECEIVED FROM 5
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+IM ADDING TO SNAPSHOT RES THIS: 5
+I've received all my children info!
+Neighbor regions are: [1, 6]
+My children snapshots are: 5 
+22:21:13 - Recorded bitcake amount for 0 = 1046
+22:21:13 - Recorded bitcake amount for 1 = 783
+22:21:13 - Recorded bitcake amount for 2 = 627
+22:21:13 - Recorded bitcake amount for 3 = 1322
+22:21:13 - Recorded bitcake amount for 4 = 1000
+22:21:13 - Recorded bitcake amount for 5 = 1054
+22:21:13 - Recorded bitcake amount for 6 = 1000
+22:21:13 - Unreceived bitcake amount: -155 from servent 0 to servent 1
+22:21:13 - Unreceived bitcake amount: 23 from servent 0 to servent 2
+22:21:13 - Unreceived bitcake amount: 86 from servent 0 to servent 6
+22:21:13 - Unreceived bitcake amount: 39 from servent 1 to servent 0
+22:21:13 - Unreceived bitcake amount: 75 from servent 1 to servent 2
+22:21:13 - Unreceived bitcake amount: 47 from servent 1 to servent 3
+22:21:13 - Unreceived bitcake amount: 56 from servent 1 to servent 5
+22:21:13 - Unreceived bitcake amount: -28 from servent 2 to servent 0
+22:21:13 - Unreceived bitcake amount: -35 from servent 2 to servent 1
+22:21:13 - Unreceived bitcake amount: 210 from servent 2 to servent 3
+22:21:13 - Unreceived bitcake amount: 226 from servent 2 to servent 6
+22:21:13 - Unreceived bitcake amount: -255 from servent 3 to servent 1
+22:21:13 - Unreceived bitcake amount: -67 from servent 3 to servent 2
+22:21:13 - Unreceived bitcake amount: -174 from servent 5 to servent 1
+22:21:13 - Unreceived bitcake amount: 52 from servent 5 to servent 4
+22:21:13 - Unreceived bitcake amount: 68 from servent 5 to servent 6
+22:21:13 - System bitcake count: 7000
+22:21:21 - Pausing for 15000 ms
+22:21:22 - STARTING SNAPSHOT FOR (4, 1)
+-----------------------------------------
+MARKER RECEIVED FROM 4
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 0
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 5
+-----------------------------------------
+MARKER RECEIVED FROM 5
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+IM ADDING TO SNAPSHOT RES THIS: 5
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 1
+2
+0
+6
+3
+-----------------------------------------
+MARKER RECEIVED FROM 3
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+IM ADDING TO SNAPSHOT RES THIS: 1
+2
+0
+6
+3
+I've received all my children info!
+Neighbor regions are: []
+My children snapshots are: 5 1 2 0 6 3 
+22:21:29 - Recorded bitcake amount for 0 = 699
+22:21:29 - Recorded bitcake amount for 1 = 483
+22:21:29 - Recorded bitcake amount for 2 = 178
+22:21:29 - Recorded bitcake amount for 3 = 2208
+22:21:29 - Recorded bitcake amount for 4 = 1259
+22:21:29 - Recorded bitcake amount for 5 = 208
+22:21:29 - Recorded bitcake amount for 6 = 1609
+22:21:29 - Unreceived bitcake amount: 15 from servent 0 to servent 1
+22:21:29 - Unreceived bitcake amount: 36 from servent 0 to servent 2
+22:21:29 - Unreceived bitcake amount: 250 from servent 0 to servent 6
+22:21:29 - Unreceived bitcake amount: -15 from servent 1 to servent 0
+22:21:29 - Unreceived bitcake amount: -73 from servent 1 to servent 2
+22:21:29 - Unreceived bitcake amount: 567 from servent 1 to servent 3
+22:21:29 - Unreceived bitcake amount: 38 from servent 1 to servent 5
+22:21:29 - Unreceived bitcake amount: -36 from servent 2 to servent 0
+22:21:29 - Unreceived bitcake amount: 73 from servent 2 to servent 1
+22:21:29 - Unreceived bitcake amount: 513 from servent 2 to servent 3
+22:21:29 - Unreceived bitcake amount: 272 from servent 2 to servent 6
+22:21:29 - Unreceived bitcake amount: -567 from servent 3 to servent 1
+22:21:29 - Unreceived bitcake amount: -399 from servent 3 to servent 2
+22:21:29 - Unreceived bitcake amount: -242 from servent 3 to servent 6
+22:21:29 - Unreceived bitcake amount: -259 from servent 4 to servent 5
+22:21:29 - Unreceived bitcake amount: -38 from servent 5 to servent 1
+22:21:29 - Unreceived bitcake amount: 501 from servent 5 to servent 4
+22:21:29 - Unreceived bitcake amount: 329 from servent 5 to servent 6
+22:21:29 - Unreceived bitcake amount: -250 from servent 6 to servent 0
+22:21:29 - Unreceived bitcake amount: -272 from servent 6 to servent 2
+22:21:29 - Unreceived bitcake amount: 242 from servent 6 to servent 3
+22:21:29 - Unreceived bitcake amount: -329 from servent 6 to servent 5
+22:21:29 - System bitcake count: 7000
+22:21:36 - Pausing for 15000 ms
+22:21:51 - Pausing for 15000 ms
+22:22:06 - Pausing for 15000 ms

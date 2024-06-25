@@ -1,0 +1,128 @@
+22:21:05 - Starting servent [6|localhost|1700]
+22:21:05 - Pausing for 250 ms
+22:21:06 - Pausing for 15000 ms
+22:21:06 - STARTING SNAPSHOT FOR (6, 0)
+-----------------------------------------
+MARKER RECEIVED FROM 6
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 0
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 6 AND SNAPSHOTID.FIRST IS 6
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 1
+-----------------------------------------
+MARKER RECEIVED FROM 3
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 6 AND SNAPSHOTID.FIRST IS 1
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 4
+-----------------------------------------
+MARKER RECEIVED FROM 5
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 6 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 2
+-----------------------------------------
+MARKER RECEIVED FROM 2
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 3
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 6 AND SNAPSHOTID.FIRST IS 6
+IM ADDING TO SNAPSHOT RES THIS: 2
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 0
+-----------------------------------------
+MARKER RECEIVED FROM 0
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 4
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 6 AND SNAPSHOTID.FIRST IS 6
+IM ADDING TO SNAPSHOT RES THIS: 0
+I've received all my children info!
+Neighbor regions are: [1, 4]
+My children snapshots are: 2 0 
+22:21:11 - Recorded bitcake amount for 0 = 1046
+22:21:11 - Recorded bitcake amount for 1 = 783
+22:21:11 - Recorded bitcake amount for 2 = 627
+22:21:11 - Recorded bitcake amount for 3 = 1322
+22:21:11 - Recorded bitcake amount for 4 = 1000
+22:21:11 - Recorded bitcake amount for 5 = 1054
+22:21:11 - Recorded bitcake amount for 6 = 1000
+22:21:11 - Unreceived bitcake amount: -155 from servent 0 to servent 1
+22:21:11 - Unreceived bitcake amount: 23 from servent 0 to servent 2
+22:21:11 - Unreceived bitcake amount: 86 from servent 0 to servent 6
+22:21:11 - Unreceived bitcake amount: 39 from servent 1 to servent 0
+22:21:11 - Unreceived bitcake amount: 75 from servent 1 to servent 2
+22:21:11 - Unreceived bitcake amount: 47 from servent 1 to servent 3
+22:21:11 - Unreceived bitcake amount: 56 from servent 1 to servent 5
+22:21:11 - Unreceived bitcake amount: -28 from servent 2 to servent 0
+22:21:11 - Unreceived bitcake amount: -35 from servent 2 to servent 1
+22:21:11 - Unreceived bitcake amount: 210 from servent 2 to servent 3
+22:21:11 - Unreceived bitcake amount: 226 from servent 2 to servent 6
+22:21:11 - Unreceived bitcake amount: -255 from servent 3 to servent 1
+22:21:11 - Unreceived bitcake amount: -67 from servent 3 to servent 2
+22:21:11 - Unreceived bitcake amount: -174 from servent 5 to servent 1
+22:21:11 - Unreceived bitcake amount: 52 from servent 5 to servent 4
+22:21:11 - Unreceived bitcake amount: 68 from servent 5 to servent 6
+22:21:11 - System bitcake count: 7000
+22:21:21 - Pausing for 15000 ms
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 3
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 5
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 2
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 3
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 0
+-----------------------------------------
+MARKER RECEIVED FROM 0
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 4
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+IM ADDING TO SNAPSHOT RES THIS: 0
+My children snapshots are: 0 6 
+GOT ALL MARKERS SENDING RESULT TO PARENT: 3
+22:21:36 - Pausing for 15000 ms
+22:21:51 - Pausing for 15000 ms
+22:22:06 - Stopping...

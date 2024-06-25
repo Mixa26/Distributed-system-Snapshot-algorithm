@@ -1,0 +1,85 @@
+22:21:05 - Starting servent [2|localhost|1300]
+22:21:05 - Pausing for 1000 ms
+22:21:06 - Pausing for 15000 ms
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 6
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 6 AND SNAPSHOTID.FIRST IS 6
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 1
+-----------------------------------------
+MARKER RECEIVED FROM 1
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 6 AND SNAPSHOTID.FIRST IS 1
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 0
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 3
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 6 AND SNAPSHOTID.FIRST IS 6
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 1
+-----------------------------------------
+MARKER RECEIVED FROM 3
+MY MASTER: 6
+MY PARENT: 6
+COLLECTED MARKERS: 4
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 6 AND SNAPSHOTID.FIRST IS 1
+My children snapshots are: 2 
+GOT ALL MARKERS SENDING RESULT TO PARENT: 6
+22:21:21 - Pausing for 15000 ms
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 3
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 1
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 6
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 3
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 0
+MY MASTER: 4
+MY PARENT: 3
+COLLECTED MARKERS: 4
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+My children snapshots are: 2 
+GOT ALL MARKERS SENDING RESULT TO PARENT: 3
+22:21:36 - Pausing for 15000 ms
+22:21:51 - Pausing for 15000 ms
+22:22:06 - Stopping...

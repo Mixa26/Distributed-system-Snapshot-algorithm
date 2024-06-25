@@ -1,0 +1,96 @@
+22:21:05 - Starting servent [3|localhost|1400]
+22:21:05 - Pausing for 15000 ms
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 1
+MY MASTER: 1
+MY PARENT: 1
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 1 AND SNAPSHOTID.FIRST IS 1
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 4
+-----------------------------------------
+MARKER RECEIVED FROM 4
+MY MASTER: 1
+MY PARENT: 1
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 1 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 6
+-----------------------------------------
+MARKER RECEIVED FROM 6
+MY MASTER: 1
+MY PARENT: 1
+COLLECTED MARKERS: 3
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 1 AND SNAPSHOTID.FIRST IS 6
+RECEIVED MARKER!
+RECEIVED FOREIGN BORDER ID: 6
+-----------------------------------------
+MARKER RECEIVED FROM 2
+MY MASTER: 1
+MY PARENT: 1
+COLLECTED MARKERS: 4
+-----------------------------------------
+TEST1 false
+TEST2 false MASTER IS 1 AND SNAPSHOTID.FIRST IS 6
+My children snapshots are: 3 
+GOT ALL MARKERS SENDING RESULT TO PARENT: 1
+22:21:20 - Pausing for 15000 ms
+RECEIVED MARKER!
+-----------------------------------------
+MARKER RECEIVED FROM 4
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 1
+-----------------------------------------
+TEST1 false
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 1
+-----------------------------------------
+MARKER RECEIVED FROM 1
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 2
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+IM ADDING TO SNAPSHOT RES THIS: 1
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 2
+-----------------------------------------
+MARKER RECEIVED FROM 2
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 3
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+IM ADDING TO SNAPSHOT RES THIS: 2
+RECEIVED MARKER!
+RECEIVED RESULTS FROM CHILD!
+IVE RECEIVED IN LISTENER THIS: 0
+6
+-----------------------------------------
+MARKER RECEIVED FROM 6
+MY MASTER: 4
+MY PARENT: 4
+COLLECTED MARKERS: 4
+-----------------------------------------
+TEST1 true
+TEST2 true MASTER IS 4 AND SNAPSHOTID.FIRST IS 4
+IM ADDING TO SNAPSHOT RES THIS: 0
+6
+My children snapshots are: 1 2 0 6 3 
+GOT ALL MARKERS SENDING RESULT TO PARENT: 4
+22:21:35 - Pausing for 15000 ms
+22:21:50 - Pausing for 15000 ms
+22:22:05 - Pausing for 15000 ms
