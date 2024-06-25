@@ -1,0 +1,55 @@
+ $ 13:10:59 - Starting servent 4
+ $ 13:10:59 - Now waiting for connection on: 1500
+ $ 13:10:59 - Pausing for 500ms.
+ $ 13:10:59 - Starting bitcake collecting...
+ $ 13:10:59 - Pausing for 15000ms.
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500
+ $ 13:10:59 - Received connection on : 1500

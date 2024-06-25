@@ -1,0 +1,228 @@
+ $ 13:10:59 - Starting servent 5
+ $ 13:10:59 - Now waiting for connection on: 1600
+ $ 13:10:59 - Pausing for 1000ms.
+ $ 13:10:59 - Pausing for 15000ms.
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 1]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 1]
+ $ 13:10:59 - Sending message [5 | 0 | 6 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 1 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 3 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 7 | TRANSACTION | 4]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 4 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 4]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 2 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 9 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 8 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 5 | TRANSACTION | 6]
+ $ 13:10:59 - Sending message [5 | 0 | 10 | TRANSACTION | 6]
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
+ $ 13:10:59 - Received connection on : 1600
