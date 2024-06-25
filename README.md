@@ -8,6 +8,10 @@ problems can arise in communication of such servers. This the task of this proje
 
 ## What is a snapshot?
 
+
+![snapshotMeme](Snapshot_GO/SNAPSHOTmeme.jpg)
+
+
 A snapshot is a moment where a distributed system "records" it's current state.<br>
 
 ## Implementation specifics
@@ -16,6 +20,12 @@ This project features a Lai-Yang algorithm implementation for multiple snapshot 
 as well as Spezialleti-Kearns implementation for combining the results of multiple simultaneous snapshots.<br>
 The servents (servent and client) in our system exchange bitcake, which is an imagined currency.<br>
 The point of this project is to preserve this currency and that none of the bitcake is lost during a snapshot.<br>
+
+## Go unfinished base implementation
+
+In the folder Snapshot_GO there is the base of this project not fully implemented.<br>
+The reason of discontinuing of the code is that the servents message listener backlog<br>
+was not able to be bigger, and this project requires receiving multiple messages.<br>
 
 ## Output, input and errors
 
